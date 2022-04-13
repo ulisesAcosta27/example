@@ -1,0 +1,1 @@
+const holaMundo = 'Hola Mundo'
